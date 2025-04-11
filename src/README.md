@@ -34,7 +34,8 @@
    ```bash
    pip install -r requirements.txt
    ```
-## 📂 Repository Structure
+
+## 📂 Repository Description
 - `data/`: Raw and processed datasets
 - `notebooks/`: Jupyter Notebooks for data validation and analysis
 - `src/`: Preprocessing or helper scripts
