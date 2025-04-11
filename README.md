@@ -1,29 +1,16 @@
-# cs5661_final_project
-Insert Project Title
+# 📊 YOLO Model
 
-# 📊 [Project Title Here]
-> Example:  
-> **Early Skin Cancer Detection: Bringing Dermatology to Everyone)**
-
-## Project Description (Add the Big Idea)
+## Elevator Pitch (Add the Big Idea)
 
 > Example:  
 > AI-driven smartphone-based image quality  skin cancer detection can democratize early diagnosis, improving global healthcare accessibility and patient outcomes.
 
 .
 
----
-
-## 📂 Repository Structure
-- `data/`: Raw and processed datasets
-- `notebooks/`: Jupyter Notebooks for data validation and analysis
-- `src/`: Preprocessing or helper scripts
-- `data_card.md`: Dataset documentation ([Google Data Card](https://github.com/PAIR-code/datacardsplaybook/blob/main/templates/DataCardsExtendedTemplate.md))
-- `README.md`: This file
 
 ---
 
-## 🚀 Installation Guide
+## 🚀 Installation Instructions
 
 ### 🔧 Requirements
 - Python 3.7 or higher  
@@ -47,13 +34,14 @@ Insert Project Title
    ```bash
    pip install -r requirements.txt
    ```
-
-## Usage
-
-## Contributors
-
-We want to thank the following individuals who have contributed to this project:
-
+## 📂 Repository Structure
+- `data/`: Raw and processed datasets
+- `notebooks/`: Jupyter Notebooks for data validation and analysis
+- `src/`: Preprocessing or helper scripts
+- `data_card.md`: Dataset documentation ([Google Data Card](https://github.com/PAIR-code/datacardsplaybook/blob/main/templates/DataCardsExtendedTemplate.md))
+- `README.md`: This file
+ 
+## Team Members & Roles
 
 | Name | GitHub Username |
 |---|---|
