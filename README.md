@@ -58,9 +58,9 @@ We want to thank the following individuals who have contributed to this project:
 | Kevin Trochez  | [KMTrochez](https://github.com/KMTrochez) |
 | Jesus Perez Arias  | [JayDevelops](https://github.com/JayDevelops) |
 | Runyi Yang  | [github-username](github-url) |
-| Mohamad Saleh  | [mohsley](github-url) |
-| Joseph Comeaux  | [JComeaux444](github-url) |
+| Mohamad Saleh  | [mohsley](https://github.com/mohsley) |
+| Joseph Comeaux  | [JComeaux444](https://github.com/JComeaux444) |
 | Vidal Zazueta  | [github-username](github-url) |
 | Jesse Gonzalez  | [JesseG107](https://github.com/JesseG107) |
 | Alan Espinosa  | [arespinosa](https://github.com/arespinosa) |
-| Brian Phams | [Collaborator Username 2](https://github.com/CollaboratorUsername2) (optional) |
+| Brian Phams | [github-username](github-url) |
