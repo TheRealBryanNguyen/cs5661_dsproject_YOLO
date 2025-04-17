@@ -1,11 +1,10 @@
-# 📊 [Project Title Here]
+# 📊 Artificial Art Detection
 > Example:  
 > **YOLO**
 
 ## Project Description (Add the Big Idea)
 
-> Example:  
-> AI-driven smartphone-based image quality  skin cancer detection can democratize early diagnosis, improving global healthcare accessibility and patient outcomes.
+By using ANNs and YOLO models, we aim to create an easy way for users to discover whether or not an image is AI-generated, leading to a user base more aware of the images they see and interact with.
 
 .
 
