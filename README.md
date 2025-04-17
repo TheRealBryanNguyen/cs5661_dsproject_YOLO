@@ -62,5 +62,5 @@ We want to thank the following individuals who have contributed to this project:
 | Joseph Comeaux  | [JComeaux444](github-url) |
 | Vidal Zazueta  | [github-username](github-url) |
 | Jesse Gonzalez  | [JesseG107](https://github.com/JesseG107) |
-| Alan Espinosa  | [github-username](github-url) |
+| Alan Espinosa  | [arespinosa](https://github.com/arespinosa) |
 | Brian Phams | [Collaborator Username 2](https://github.com/CollaboratorUsername2) (optional) |
