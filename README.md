@@ -56,7 +56,7 @@ We want to thank the following individuals who have contributed to this project:
 | Bryan Nguyen  | [TheRealBryanNguyen](https://github.com/TheRealBryanNguyen) |
 | Kevin Trochez  | [KMTrochez](https://github.com/KMTrochez) |
 | Jesus Perez Arias  | [JayDevelops](https://github.com/JayDevelops) |
-| Runyi Yang  | [github-username](github-url) |
+| Runyi Yang  | [runyiy](https://github.com/runyiy) |
 | Mohamad Saleh  | [mohsley](https://github.com/mohsley) |
 | Joseph Comeaux  | [JComeaux444](https://github.com/JComeaux444) |
 | Vidal Zazueta  | [github-username](github-url) |
