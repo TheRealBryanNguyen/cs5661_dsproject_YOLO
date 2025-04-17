@@ -54,5 +54,13 @@ We want to thank the following individuals who have contributed to this project:
 
 | Name | GitHub Username |
 |---|---|
-| Jesus A. Beltran | [3eltran23](https://github.com/3eltran23) |
+| User1  | [github-username](github-url) |
+| Kevin Trochez  | [KMTrochez](https://github.com/KMTrochez) |
+| User1  | [github-username](github-url) |
+| User1  | [github-username](github-url) |
+| User1  | [github-username](github-url) |
+| User1  | [github-username](github-url) |
+| User1  | [github-username](github-url) |
+| User1  | [github-username](github-url) |
+| User1  | [github-username](github-url) |
 | Collaborator Name 2 (optional) | [Collaborator Username 2](https://github.com/CollaboratorUsername2) (optional) |
