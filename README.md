@@ -30,7 +30,7 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone <your-repo-url>
+   git clone <(https://github.com/TheRealBryanNguyen/cs5661_dsproject_yolo_model)>
    cd <your-repo-folder>
 2. **Create and activate a virtual environment**
 
