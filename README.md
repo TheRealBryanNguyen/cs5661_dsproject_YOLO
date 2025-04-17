@@ -54,13 +54,13 @@ We want to thank the following individuals who have contributed to this project:
 
 | Name | GitHub Username |
 |---|---|
-| User1  | [github-username](github-url) |
+| Bryan Nguyen  | [github-username](github-url) |
 | Kevin Trochez  | [KMTrochez](https://github.com/KMTrochez) |
-| User1  | [github-username](github-url) |
-| User1  | [github-username](github-url) |
-| User1  | [github-username](github-url) |
-| User1  | [github-username](github-url) |
-| User1  | [github-username](github-url) |
-| User1  | [github-username](github-url) |
-| User1  | [github-username](github-url) |
-| Collaborator Name 2 (optional) | [Collaborator Username 2](https://github.com/CollaboratorUsername2) (optional) |
+| Jesus Perez Arias  | [github-username](github-url) |
+| Runyi Yang  | [github-username](github-url) |
+| Mohamad Saleh  | [mohsley](github-url) |
+| Joseph Comeaux  | [JComeaux444](github-url) |
+| Vidal Zazueta  | [github-username](github-url) |
+| Jesse Gonzalez  | [JesseG107](github-url) |
+| Alan Espinosa  | [github-username](github-url) |
+| Brian Phams | [Collaborator Username 2](https://github.com/CollaboratorUsername2) (optional) |
