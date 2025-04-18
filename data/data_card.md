@@ -1,6 +1,6 @@
-# Dataset Name: AI vs Human-Generated Images (Acronym)
+# Dataset Name: Detecting AI vs Human-Generated Images (Acronym)
 
-From Kaggle, this dataset will consist a mix of AI-generated images and human captured images from the Shutterstock platform. With this dataset, we will be dealing with a binary classification problem aimed at determining what is real vs AI-generated. Our group plans on finding the best way to efficiently and effectively determine if a given image is AI-generated or not. By doing this, we can help Internet users gain a better understanding towards distinguishing between an image or art piece that is artificially generated or was created by a human. Potential use cases include tools for detecting misinformation and raising awareness on the the dangers of AI generated content. 
+From Kaggle, this dataset will consist a mix of AI-generated images developed by DeepMedia and human captured images from the Shutterstock platform. With this dataset, we will be dealing with a binary classification problem aimed at determining what is real vs AI-generated. Our group plans on finding the best way to efficiently and effectively determine if a given image is AI-generated or not. By doing this, we can help Internet users gain a better understanding towards distinguishing between an image or art piece that is artificially generated or was created by a human. Potential use cases include tools for detecting misinformation and raising awareness on the the dangers of AI generated content. 
 
 
 #### Dataset Link
@@ -32,7 +32,10 @@ in creating the Data Card.) -->
 <!-- scope: telescope -->
 <!-- info: Provide the names of the institution or organization responsible
 for publishing the dataset: -->
-Organization Name: Kaggle
+- Kaggle
+- Shutterstock
+- DeepMedia
+
 
 #### Industry Type(s)
 <!-- scope: periscope -->
@@ -43,10 +46,8 @@ organizations belong: -->
 #### Contact Detail(s)
 <!-- scope: microscope -->
 <!-- info: Provide publisher contact details: -->
-- **Publishing POC:** Provide the name for a POC for this dataset's publishers
+- **Publishing POC**: Alessandra Sala
 - **Affiliation:** Kaggle / Google LLC
-- **Contact:** Provide the POC's contact details
-- **Mailing List:** Provide a mailing list if available
 - **Website:** https://www.kaggle.com/competitions/detect-ai-vs-human-generated-images
 
 ### Dataset Owners
@@ -59,9 +60,7 @@ Detect AI vs. Human-Generated Images Competition Team
 <!-- scope: periscope -->
 <!-- info: Provide pathways to contact dataset owners: -->
 - **Dataset Owner(s):** Alessandra Sala (Owner), Manuela Jeyaraj (Editor), Toma Ijatomi (Editor), Margarita Pitsiani (Editor)
-- **Affiliation:** Provide the affiliation of the dataset owners
-- **Contact:** Provide the email of the dataset owner
-- **Group Email:** Provide a link to the mailing-list@server.com for the dataset owner team
+- **Affiliation:** Kaggle Competition
 - **Website:** https://kaggle.com/competitions/detect-ai-vs-human-generated-images
 
 
@@ -82,10 +81,9 @@ institutions or multiple affiliations.) -->
 #### Institution(s)
 <!-- scope: telescope -->
 <!-- info: Provide the names of the funding institution(s): -->
-- Name of Institution
-- Name of Institution
-- Name of Institution
-
+- Shutterstock
+- DeepMedia
+- 
 #### Funding or Grant Summary(ies)
 <!-- scope: periscope -->
 <!-- width: full -->
@@ -98,7 +96,7 @@ considerations. -->
 part of the XYZ data program, funded by XYZ grant awarded by institution 3 for
 the years YYYY-YYYY.*
 
-Summarize here. Link to documents if available.
+DeepMedia and Shutterstock jointly funded this dataset as a part of the 2025 Women in AI competition hosted for Kaggle. First place for this competition would be awarded a $2,000. 
 
 **Additional Notes:** Add here
 
@@ -106,14 +104,10 @@ Summarize here. Link to documents if available.
 #### Data Subject(s)
 <!-- scope: telescope -->
 <!-- info: Select ***all applicable**** subjects contained the dataset: -->
-- Sensitive Data about people
 - Non-Sensitive Data about people
-- Data about natural phenomena
 - Data about places and objects
 - Synthetically generated data
-- Data about systems or products and their behaviors
-- Unknown
-- Others (Please specify)
+
 
 #### Dataset Snapshot
 <!-- scope: periscope -->
@@ -122,24 +116,24 @@ to include relevant information, considerations, and links to table(s) with
 more detailed breakdowns.) -->
 Category | Data
 --- | ---
-Size of Dataset | 123456 MB
-Number of Instances | 123456
-Number of Fields | 123456
-Labeled Classes | 123456
-Number of Labels | 123456789
-Average Labeles Per Instance | 123456
-Algorithmic Labels | 123456789
-Human Labels | 123456789
-Other Characteristics | 123456
+Size of Dataset | 4.75 MB
+Number of Instances | 85490
+Number of Fields | 3 (id, image, & label)
+Labeled Classes | 2 (Real, AI-generated)
+Number of Labels | 2
+Average Labeles Per Instance | 1
+Algorithmic Labels | Yes
+Human Labels | Yes
+Other Characteristics | N/A
 
-**Above:** Provide a caption for the above table of visualization.
+**Above:** This dataset will include both AI-generated and real images. Our group will split the data and manually classify whether is AI or human generated. The dataset will consist of three fields: the id which is the unique identifier for the image, the image itself, and the label indicating the type of image. 
 
-**Additional Notes:** Add here.
 
 #### Content Description
 <!-- scope: microscope -->
 <!-- info: Provide a short description of the content in a data point: -->
-Summarize here. Include links if available.
+Our dataset will consist of a wide range of images, including individuals, groups of people, builidings, roads, and inanimate objects. The coloring in these images can be black and white or color. 
+
 
 **Additional Notes:** Add here.
 
@@ -173,52 +167,23 @@ mode |
 #### Sensitivity Type(s)
 <!-- scope: telescope -->
 <!-- info: Select ***all applicable*** data types present in the dataset: -->
-- User Content
-- User Metadata
-- User Activity Data
-- Identifiable Data
-- S/PII
-- Business Data
-- Employee Data
-- Pseudonymous Data
-- Anonymous Data
-- Health Data
-- Children’s Data
 - None
-- Others (Please specify)
+
 
 #### Field(s) with Sensitive Data
 <!-- scope: periscope -->
 <!-- info: List fields in the dataset that contain S/PII, and specify if their
 collection was intentional or unintentional.
 
+
 Use additional notes to capture any other relevant information or
 considerations. -->
+- N/A
 **Intentional Collected Sensitive Data**
-
-(S/PII were collected as a part of the
-dataset creation process.)
-
-Field Name | Description
---- | ---
-Field Name | Type of S/PII
-Field Name | Type of S/PII
-Field Name | Type of S/PII
+- N/A
 
 **Unintentionally Collected Sensitive Data**
-
-(S/PII were not explicitly collected as a
-part of the dataset creation process but
-can be inferred using additional
-methods.)
-
-Field Name | Description
---- | ---
-Field Name | Type of S/PII
-Field Name | Type of S/PII
-Field Name | Type of S/PII
-
-**Additional Notes:** Add here
+- N/A
 
 #### Security and Privacy Handling
 <!-- scope: microscope -->
@@ -228,35 +193,27 @@ dataset.
 Use additional notes to capture any other relevant information or
 considerations. -->
 
-Summarize here. Include links and metrics where applicable.
 
+The images gathered from Shutterstock follow all security and privacy regulations. The AI-generated data was created for the Kaggle competition thus there is no sensitive data that needs to be handled. 
 **Method:** description
 
-**Method:** description
+**Method:** N/A
 
-**Method:** description
-
-**Additional Notes:** Add here
 
 #### Risk Type(s)
 <!-- scope: telescope -->
 <!-- info: Select **all applicable** risk types presenting from the
 dataset: -->
-- Direct Risk
 - Indirect Risk
-- Residual Risk
-- No Known Risks
-- Others (Please Specify)
 
 #### Supplemental Link(s)
 <!-- scope: periscope -->
 <!-- info: Provide link(s) for documentation pertaining to sensitive data in
 the dataset: -->
-**Link Name or Document Type:** link
+**Kaggle Competition Page:** https://www.kaggle.com/competitions/detect-ai-vs-human-generated-images
+**Shutterstock Terms of Use:** https://www.shutterstock.com/terms
+**DeepMedia Website:** https://www.deepmedia.ai
 
-**Link Name or Document Type:** link
-
-**Link Name or Document Type:** link
 
 #### Risk(s) and Mitigation(s)
 <!-- scope: microscope -->
@@ -265,118 +222,41 @@ or sensitive information.
 
 Use additional notes to capture any other relevant information or
 considerations. -->
-Summarize here. Include links and metrics where applicable.
+Some real images will include people which can pose the risk of visual data being linked through facial recognition. 
 
-**Risk type:** Description + Mitigations
-
-**Risk type:** Description + Mitigations
-
-**Risk type:** Description + Mitigations
-
-**Additional Notes:** Add here
+**Risk type:** Indirect Risk + Mitigations: Shutterstock's + DeepMedia licensing terms 
 
 ### Dataset Version and Maintenance
 #### Maintenance Status
 <!-- scope: telescope -->
 <!-- info: Select **one:** -->
-**Regularly Updated** - New versions of the dataset
-have been or will continue to be
-made available.
-
-**Actively Maintained** - No new versions will be made
-available, but this dataset will
-be actively maintained,
-including but not limited to
-updates to the data.
 
 **Limited Maintenance** - The data will not be updated,
 but any technical issues will be
 addressed.
-
-**Deprecated** - This dataset is obsolete or is
-no longer being maintained.
 
 #### Version Details
 <!-- scope: periscope -->
 <!-- info: Provide details about **this** version of the dataset: -->
 **Current Version:** 1.0
 
-**Last Updated:** MM/YYYY
+**Last Updated:** 01/2025
 
-**Release Date:** MM/YYYY
-
-#### Maintenance Plan
-<!-- scope: microscope -->
-<!-- info: Summarize the maintenance plan for the dataset:
-
-Use additional notes to capture any other relevant information or
-considerations. -->
-Summarize here. Include links and metrics where applicable.
-
-**Versioning:** Summarize here. Include information about criteria for
-versioning the dataset.
-
-**Updates:** Summarize here. Include information about criteria for refreshing
-or updating the dataset.
-
-**Errors:** Summarize here. Include information about criteria for refreshing
-or updating the dataset.
-
-**Feedback:** Summarize here. Include information about criteria for refreshing
-or updating the dataset.
-
-**Additional Notes:** Add here
-
-#### Next Planned Update(s)
-<!-- scope: periscope -->
-<!-- info: Provide details about the next planned update: -->
-**Version affected:** 1.0
-
-**Next data update:** MM/YYYY
-
-**Next version:** 1.1
-
-**Next version update:** MM/YYYY
-
-#### Expected Change(s)
-<!-- scope: microscope -->
-<!-- info: Summarize the updates to the dataset and/or data that are expected
-on the next update.
-
-Use additional notes to capture any other relevant information or
-considerations. -->
-**Updates to Data:** Summarize here. Include links, charts, and visualizations
-as appropriate.
-
-**Updates to Dataset:** Summarize here. Include links, charts, and
-visualizations as appropriate.
-
-**Additional Notes:** Add here
+**Release Date:** 01/2025
 
 ## Example of Data Points
 #### Primary Data Modality
 <!-- scope: telescope -->
 <!-- info: Select **one**: -->
 - Image Data
-- Text Data
-- Tabular Data
-- Audio Data
-- Video Data
-- Time Series
-- Graph Data
-- Geospatial Data
-- Multimodel (please specify)
-- Unknown
-- Others (please specify)
+
 
 #### Sampling of Data Points
 <!-- scope: periscope -->
 <!-- info: Provide link(s) to data points or exploratory demos: -->
-- Demo Link
-- Typical Data Point Link
-- Outlier Data Point Link
-- Other Data Point Link
-- Other Data Point Link
+- Demo Link: https://www.kaggle.com/datasets/alessandrasala79/ai-vs-human-generated-dataset/data
+- Typical Data Point Link: https://www.kaggle.com/datasets/alessandrasala79/ai-vs-human-generated-dataset/data
+
 
 #### Data Fields
 <!-- scope: microscope -->
@@ -387,12 +267,11 @@ the example.) -->
 
 Field Name | Field Value | Description
 --- | --- | ---
-Field Name | Field Value | Description
-Field Name | Field Value | Description
-Field Name | Field Value | Description
+id | 00158651c0f54532a3ed60fa49e709d9.jpg | Unique identifier for the image
+image | jpg file | The actual image itself
+label | real/ai | This is the field that our group is implementing to indicate whether it is real vs ai.
 
-**Above:** Provide a caption for the above table or visualization if used.
-
+**Above:** Each observation from our dataset will include these three fields in our csv file. The original dataset will include id and image, where our group will manually apply the label field. 
 **Additional Notes:** Add here
 
 #### Typical Data Point
@@ -402,20 +281,12 @@ it typical.
 
 **Use additional notes to capture any other relevant information or
 considerations.** -->
-Summarize here. Include any criteria for typicality of data point.
+A typical datapoint will include the image itself, its id, and the label depicting its classification. 
 
 ```
-{'q_id': '8houtx',
-  'title': 'Why does water heated to room temperature feel colder than the air around it?',
-  'selftext': '',
-  'document': '',
-  'subreddit': 'explainlikeimfive',
-  'answers': {'a_id': ['dylcnfk', 'dylcj49'],
-  'text': ["Water transfers heat more efficiently than air. When something feels cold it's because heat is being transferred from your skin to whatever you're touching. ... Get out of the water and have a breeze blow on you while you're wet, all of the water starts evaporating, pulling even more heat from you."],
-  'score': [5, 2]},
-  'title_urls': {'url': []},
-  'selftext_urls': {'url': []},
-  'answers_urls': {'url': []}}
+{'id': '000fe90b4fb14fca9d250167e77e3d10.jpg',
+  'image': 'Image itself',
+  'label': 'ai',
 ```
 
 **Additional Notes:** Add here
@@ -427,20 +298,12 @@ it atypical.
 
 **Use additional notes to capture any other relevant information or
 considerations.** -->
-Summarize here. Include any criteria for atypicality of data point.
+The criteria for an atypical datapoint could be an image that is extremely hard to classify or an image that we're unable to depict. 
 
 ```
-{'q_id': '8houtx',
-  'title': 'Why does water heated to room temperature feel colder than the air around it?',
-  'selftext': '',
-  'document': '',
-  'subreddit': 'explainlikeimfive',
-  'answers': {'a_id': ['dylcnfk', 'dylcj49'],
-  'text': ["Water transfers heat more efficiently than air. When something feels cold it's because heat is being transferred from your skin to whatever you're touching. ... Get out of the water and have a breeze blow on you while you're wet, all of the water starts evaporating, pulling even more heat from you."],
-  'score': [5, 2]},
-  'title_urls': {'url': []},
-  'selftext_urls': {'url': []},
-  'answers_urls': {'url': []}}
+{'id': '0011c570133b4117b735ef0eafde3343.jpg',
+  'image': 'Image itself',
+  'label': '',
 ```
 
 **Additional Notes:** Add here
