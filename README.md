@@ -1,5 +1,5 @@
 # 📊 Artificial Art Detection
-> Example:  
+
 > **Utilizing Image Recognition Algorithms To Detect Artificial Art, Including AI-Generated Images and Deepfakes**
 
 ## Project Description (Big Idea)
