@@ -135,34 +135,6 @@ Other Characteristics | N/A
 Our dataset will consist of a wide range of images, including individuals, groups of people, builidings, roads, and inanimate objects. The coloring in these images can be black and white or color. 
 
 
-**Additional Notes:** Add here.
-
-#### Descriptive Statistics
-<!-- width: full -->
-<!-- info: Provide basic descriptive statistics for each field.
-
-Use additional notes to capture any other relevant information or
-considerations.
-
-Usage Note: Some statistics will be relevant for numeric data, for not for
-strings. -->
-
-Statistic | Field Name | Field Name | Field Name | Field Name | Field Name | Field Name
---- | --- | --- | --- | --- | --- | ---
-count |
-mean |
-std |
-min |
-25% |
-50% |
-75% |
-max |
-mode |
-
-**Above:** Provide a caption for the above table or visualization.
-
-**Additional Notes:** Add here.
-
 ### Sensitivity of Data
 #### Sensitivity Type(s)
 <!-- scope: telescope -->
