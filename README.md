@@ -22,11 +22,11 @@ By using ANNs and YOLO models, we aim to create an easy way for users to discove
 
 ## 🚀 Installation Guide
 
+
+
 ### 🔧 Requirements
 - Python 3.7 or higher  
 - All dependencies listed in `requirements.txt`
-
-### 📦 Setup Instructions
 
 1. **Clone the Repository**
    ```bash
@@ -39,6 +39,7 @@ By using ANNs and YOLO models, we aim to create an easy way for users to discove
    virtualenv venv
    source venv/bin/activate
    ```
+   
 3. **Install project dependencies or libraries needed to run this project.**
 
    ```bash
