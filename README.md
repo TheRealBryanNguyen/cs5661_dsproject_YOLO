@@ -64,4 +64,4 @@ We want to thank the following individuals who have contributed to this project:
 | Vidal Zazueta  | [github-username](github-url) |
 | Jesse Gonzalez  | [JesseG107](https://github.com/JesseG107) |
 | Alan Espinosa  | [arespinosa](https://github.com/arespinosa) |
-| Brian Phams | [github-username](github-url) |
+| Brian Phams | [BPhi-ai](https://github.com/BPhi-ai) |
