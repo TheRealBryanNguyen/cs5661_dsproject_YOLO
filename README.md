@@ -17,13 +17,16 @@ By using ANNs and YOLO models, we aim to create an easy way for users to discove
 
 ---
 
-## 🚀 Installation Guide
+## 🚀 Installation Instructions
+A Kaggle account is required to access this project and repository.
 
+**Further instructions will be announced at a later date.**
 
 
 ### 🔧 Requirements
-- Python 3.7 or higher  
 - All dependencies listed in `requirements.txt`
+
+**Further requirements will be announced at a later date.**
 
 1. **Clone the Repository**
    ```bash
