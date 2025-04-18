@@ -1,6 +1,6 @@
 # 📊 Artificial Art Detection
 > Example:  
-> **YOLO**
+> **Utilizing Image Recognition Algorithms To Detect AI-Generated Images and Deepfakes**
 
 ## Project Description (Big Idea)
 
