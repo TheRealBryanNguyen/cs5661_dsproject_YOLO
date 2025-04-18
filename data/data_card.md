@@ -1,14 +1,12 @@
-# Dataset Name (Acronym)
-Write a short summary describing your dataset (limit
-200 words). Include information about the content
-and topic of the data, sources and motivations for the
-dataset, benefits and the problems or use cases it is
-suitable for.
+# Dataset Name: AI vs Human-Generated Images (Acronym)
+
+From Kaggle, this dataset will consist a mix of AI-generated images and human captured images from the Shutterstock platform. With this dataset, we will be dealing with a binary classification problem aimed at determining what is real vs AI-generated. Our group plans on finding the best way to efficiently and effectively determine if a given image is AI-generated or not. By doing this, we can help Internet users gain a better understanding towards distinguishing between an image or art piece that is artificially generated or was created by a human. Potential use cases include tools for detecting misinformation and raising awareness on the the dangers of AI generated content. 
+
 
 #### Dataset Link
 <!-- info: Provide a link to the dataset: -->
 <!-- width: half -->
-Dataset Link
+Dataset Link: https://www.kaggle.com/competitions/detect-ai-vs-human-generated-images/data
 
 #### Data Card Author(s)
 <!-- info: Select **one role per** Data Card Author:
@@ -16,9 +14,17 @@ Dataset Link
 (Usage Note: Select the most appropriate choice to describe the author's role
 in creating the Data Card.) -->
 <!-- width: half -->
-- **Name, Team:** (Owner / Contributor / Manager)
-- **Name, Team:** (Owner / Contributor / Manager)
-- **Name, Team:** (Owner / Contributor / Manager)
+- **Bryan Nguyen, Team:** (Owner / Contributor)
+- **Jesus Perez Arias, Team:** (Owner / Contributor)
+- **Brian Pham, Team:** (Owner / Contributor)
+- **Mohamad Saleh, Team:** (Owner / Contributor)
+- **Kevin Trochez, Team:** (Owner / Contributor)
+- **Joseph Comeaux, Team:** (Owner / Contributor)
+-  **Runyi Yang, Team:** (Owner / Contributor)
+- **Vidal Zazueta, Team:** (Owner / Contributor)
+- **Jesse Gonzalez, Team:** (Owner / Contributor)
+- **Alan Espinosa, Team:** (Owner / Contributor)
+
 
 ## Authorship
 ### Publishers
@@ -26,44 +32,38 @@ in creating the Data Card.) -->
 <!-- scope: telescope -->
 <!-- info: Provide the names of the institution or organization responsible
 for publishing the dataset: -->
-Organization Name
+Organization Name: Kaggle
 
 #### Industry Type(s)
 <!-- scope: periscope -->
 <!-- info: Select **all applicable** industry types to which the publishing
 organizations belong: -->
 - Corporate - Tech
-- Corporate - Non-Tech (please specify)
-- Academic - Tech
-- Academic - Non-Tech (please specify)
-- Not-for-profit - Tech
-- Not-for-profit - Non-Tech (please specify)
-- Individual (please specify)
-- Others (please specify)
 
 #### Contact Detail(s)
 <!-- scope: microscope -->
 <!-- info: Provide publisher contact details: -->
 - **Publishing POC:** Provide the name for a POC for this dataset's publishers
-- **Affiliation:** Provide the POC's institutional affiliation
+- **Affiliation:** Kaggle / Google LLC
 - **Contact:** Provide the POC's contact details
 - **Mailing List:** Provide a mailing list if available
-- **Website:** Provide a website for the dataset if available
+- **Website:** https://www.kaggle.com/competitions/detect-ai-vs-human-generated-images
 
 ### Dataset Owners
 #### Team(s)
 <!-- scope: telescope -->
 <!-- info: Provide the names of the groups or team(s) that own the dataset: -->
-Name of Group or Team
+Detect AI vs. Human-Generated Images Competition Team
 
 #### Contact Detail(s)
 <!-- scope: periscope -->
 <!-- info: Provide pathways to contact dataset owners: -->
-- **Dataset Owner(s):** Provide the names of the dataset owners
+- **Dataset Owner(s):** Alessandra Sala (Owner), Manuela Jeyaraj (Editor), Toma Ijatomi (Editor), Margarita Pitsiani (Editor)
 - **Affiliation:** Provide the affiliation of the dataset owners
 - **Contact:** Provide the email of the dataset owner
 - **Group Email:** Provide a link to the mailing-list@server.com for the dataset owner team
-- **Website:** Provide a link to the website for the dataset owner team
+- **Website:** https://kaggle.com/competitions/detect-ai-vs-human-generated-images
+
 
 #### Author(s)
 <!-- scope: microscope -->
@@ -71,10 +71,12 @@ Name of Group or Team
 
 (Usage Note: Provide the affiliation and year if different from publishing
 institutions or multiple affiliations.) -->
-- Name, Title, Affiliation, YYYY
-- Name, Title, Affiliation, YYYY
-- Name, Title, Affiliation, YYYY
-- Name, Title, Affiliation, YYYY
+- Alessandra Sala, Dr., Nokia Bell Labs, 2025
+- Manuela Jeyaraj, Editor, 2025
+- Toma Ijatomi, Editor, 2025
+- Margarita Pitsiani, Editor, 2025
+- Shutterstock, Inc., Corporate Author, 2025
+- DeepMedia, Corporate Author, 2025
 
 ### Funding Sources
 #### Institution(s)
