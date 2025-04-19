@@ -116,7 +116,7 @@ to include relevant information, considerations, and links to table(s) with
 more detailed breakdowns.) -->
 Category | Data
 --- | ---
-Size of Dataset | 4.75 MB
+Size of Dataset | 4.75 MB(csv) (~12 GB in images)
 Number of Instances | 85490
 Number of Fields | 3 (id, image, & label)
 Labeled Classes | 2 (Real, AI-generated)
@@ -285,41 +285,25 @@ The criteria for an atypical datapoint could be an image that is extremely hard 
 #### Purpose(s)
 <!-- scope: telescope -->
 <!-- info: Select **one**: -->
-- Monitoring
 - Research
-- Production
-- Others (please specify)
 
 #### Domain(s) of Application
-<!-- scope: periscope -->
-<!-- info: Provide a list of key domains of application that the dataset has
-been designed for:<br><br>(Usage Note: Use comma-separated keywords.) -->
-For example: `Machine Learning`, `Computer Vision`, `Object Detection`.
-
-`keyword`, `keyword`, `keyword`
+`Machine Learning`, `Computer Vision`, `Object Detection`.
 
 #### Motivating Factor(s)
-<!-- scope: microscope -->
-<!-- info: List the primary motivations for creating or curating this dataset:
 
-(Usage Note: use this to describe the problem space and corresponding
-motivations for the dataset.) -->
-For example:
+- Bringing diversity to AI imagery detection for YOLO and other ANN models
+- Encouraging academics to take on the challenges of the evolving landscape of AI image creation and deepfakes.
 
-- Bringing demographic diversity to imagery training data for object-detection models
-- Encouraging academics to take on second-order challenges of cultural representation in object detection
 
-Summarize motivation here. Include links where relevant.
 
 ### Intended Use
 #### Dataset Use(s)
-<!-- scope: telescope -->
-<!-- info: Select **one**: -->
-- Safe for production use
+
 - Safe for research use
 - Conditional use - some unsafe applications
 - Only approved use
-- Others (please specify)
+- Others (Kaggle Use)
 
 #### Suitable Use Case(s)
 <!-- scope: periscope -->
@@ -398,16 +382,10 @@ dataset: -->
 - GitHub URL
 
 #### Prerequisite(s)
-<!-- scope: microscope -->
-<!-- info: Please describe any required training or prerequisites to access
-this dataset. -->
-For example:
 
-This dataset requires membership in [specific] database groups:
+This dataset requires membership/an account on Kaggle to access the database: https://www.kaggle.com/competitions/detect-ai-vs-human-generated-images
 
-- Complete the [Mandatory Training]
 - Read [Data Usage Policy]
-- Initiate a Data Requesting by filing
 
 #### Policy Link(s)
 <!-- scope: periscope -->
