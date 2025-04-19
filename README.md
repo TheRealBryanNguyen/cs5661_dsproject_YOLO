@@ -9,7 +9,7 @@ By using ANNs and YOLO models, we aim to create an easy way for users to discove
 ---
 
 ## 📂 Repository Structure
-- `data/`: Raw and processed datasets
+- `data/`: Datacard.md
 - `notebooks/`: Jupyter Notebooks for data validation and analysis
 - `src/`: Preprocessing or helper scripts
 - `data_card.md`: Dataset documentation ([Google Data Card](https://github.com/PAIR-code/datacardsplaybook/blob/main/templates/DataCardsExtendedTemplate.md))
