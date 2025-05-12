@@ -61,7 +61,7 @@ We want to thank the following individuals who have contributed to this project:
 | Runyi Yang  | [runyiy](https://github.com/runyiy) |
 | Mohamad Saleh  | [mohsley](https://github.com/mohsley) |
 | Joseph Comeaux  | [JComeaux444](https://github.com/JComeaux444) |
-| Vidal Zazueta  | [VidalZazueta]https://github.com/VidalZazueta |
+| Vidal Zazueta  | [VidalZazueta](https://github.com/VidalZazueta) |
 | Jesse Gonzalez  | [JesseG107](https://github.com/JesseG107) |
 | Alan Espinosa  | [arespinosa](https://github.com/arespinosa) |
 | Brian Phams | [BPhi-ai](https://github.com/BPhi-ai) |
