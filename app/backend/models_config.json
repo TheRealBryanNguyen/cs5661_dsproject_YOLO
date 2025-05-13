@@ -1,0 +1,26 @@
+{
+  "models": [
+    {
+      "id": "vit",
+      "type": "vit",
+      "name": "Vision Transformer (ViT)",
+      "arch": "vit_base_patch16_224",
+      "model_path": "models/ai_vs_human_vit_model.pth",
+      "description": "Base model with global attention mechanism"
+    },
+    {
+      "id": "resnet",
+      "type": "resnet",
+      "name": "ResNet 50",
+      "arch": "resnet50",
+      "model_path": "models/ai_vs_human_resnet_model.pth",
+      "description": "CNN model with residual connections"
+    }
+  ],
+  "ensemble": {
+    "id": "ensemble",
+    "name": "Ensemble Model",
+    "model_path": "models/ai_vs_human_ensemble_model.pth",
+    "description": "Combined predictions from Vision Transformer and ResNet models"
+  }
+}
